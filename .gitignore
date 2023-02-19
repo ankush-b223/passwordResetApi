@@ -1,1 +1,2 @@
-D:\PROJECTS\passwordReset\src\.env
+#Secret file
+.env
